@@ -250,7 +250,8 @@ print('Simulated game')
 print('--------------')
 print()
 game(update=False, explore_frequency=0, display=True)
-print('\n')
+print()
+print()
 
 # Gaming time
 print('Beating you')
