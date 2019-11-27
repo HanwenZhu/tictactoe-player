@@ -5,4 +5,4 @@ It uses temporal difference to learn a value function for the different states i
 
 Some of this code is not well-written. But I'm not planning on improving it significantly.
 
-I think the decay rate is too high. It remains ~0.3 at the end of 10000 plays. You may set it lower. Or you may set the number of games for training higher. Or both.
+You can set the decay rate higher and the number of games for training higher for better performance. You can also explore more frequently.
