@@ -2,7 +2,7 @@ import random
 
 
 alpha = 1
-decay = .999
+decay = .9999
 
 values = {}
 
